@@ -7,7 +7,7 @@ url="https://fmt.dev/"
 license=('MIT')
 depends=()
 makedepends=()
-#provides=("fmt" 'libfmt.so')
+provides=()
 conflicts=()
 source=("https://github.com/fmtlib/fmt/archive/refs/tags/12.1.0.zip"
         "fmt-psp.patch")
